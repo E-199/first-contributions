@@ -12,6 +12,7 @@
 - [annkimm](https://github.com/annkimm)
 - [Shayra Laroche Madero] (https://github.com/Shayra89)
 - Andrew Scott
+-Emi-Lie
 - Ansh Shankar
 - Raunak Khemka
 - [Sachi Tank](https://github.com/sachitank)
